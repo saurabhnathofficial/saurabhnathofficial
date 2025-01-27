@@ -1,5 +1,7 @@
 # 💫 About Me:
-Namaskar!  👋<br>I'm "Saurabh Nath", an aspiring software engineer currently pursuing a B.Tech.  I'm passionate about web development and currently focusing on mastering the MERN Stack (MongoDB, Express.js, React, and Node.js).<br><br>🌱 Currently Learning: MERN Stack Development<br>💻 Projects: Working on personal projects to inhance my skills in frontend and backend development.<br>📚 Education: B.Tech in "Computer Science & Engineering".<br>🔭 Next Goal: To build scalable, animated and efficient full-stack applications.<br>⚡ Fun Fact: I love exploring new technologies and applying them to solve real-world problems.<br><br><br>🤝Feel free to check out my repositories and connect with me. Let's learn and grow together!❤️
+Hi, I’m Saurabh Nath! 👋
+
+I'm an enthusiastic Software Engineer with strong skills in C++, SQL, and object-oriented programming. I have a basic understanding of data structures and algorithms and am passionate about solving problems and building efficient solutions.
 
 
 ## 🌐 Socials:
