@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m Saurabh Nath! 👋
 
-I'm an enthusiastic Software Engineer with strong skills in C++, SQL, and object-oriented programming. I have a basic understanding of data structures and algorithms and am passionate about solving problems and building efficient solutions.
+I'm an enthusiastic Software Engineer Student with strong skills in C++, SQL, and object-oriented programming. I have a basic understanding of data structures and algorithms and am passionate about solving problems and building efficient solutions.
 
 
 ## 🌐 Socials:
