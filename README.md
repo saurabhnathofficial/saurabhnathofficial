@@ -1,7 +1,9 @@
 # 💫 About Me:
 Hi, I’m Saurabh Nath! 👋
 
-I'm an enthusiastic Software Engineer Student with strong skills in C++, SQL, and object-oriented programming. I have a basic understanding of data structures and algorithms and am passionate about solving problems and building efficient solutions.
+I am a 2025 B.Tech graduate with a strong interest in software development.
+Skilled in Java, HTML, CSS, JavaScript, Bootstrap, PHP, and Laravel.
+I enjoy building real-world projects and continuously improving my skills.
 
 
 ## 🌐 Socials:
