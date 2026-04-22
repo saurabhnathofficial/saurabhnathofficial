@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Saurabh Nath</h1>
-<h3 align="center">Web Developer | PHP & Laravel Developer | Immediate Joiner</h3>
+<h3 align="center">Web Developer | PHP & Laravel Developer | Immediate Joiner 🚀</h3>
+
+---
+
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saurabhnath77)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-nath-4164b3248)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saurabhnath0)
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate **Web Developer** with hands-on experience in building responsive and dynamic websites using:
+I am a passionate **Web Developer** with hands-on experience building responsive and dynamic websites using:
 
 - HTML
 - CSS
@@ -14,6 +22,7 @@ I am a passionate **Web Developer** with hands-on experience in building respons
 - PHP
 - Laravel
 - SQL
+- Git & GitHub
 
 I have worked on **real-world production-level projects** at **Technogaze Solutions Pvt. Ltd.**, including portal updates, frontend redesign, and enquiry form database integration.
 
@@ -22,6 +31,8 @@ Currently open to opportunities as:
 ✔ Web Developer  
 ✔ PHP Developer  
 ✔ Laravel Developer  
+
+📍 Immediate Joiner
 
 ---
 
@@ -102,14 +113,11 @@ Console-based C++ project implementing:
 
 ## 📫 Connect With Me
 
+📍 Bhopal, India  
+📧 saurabhnathofficial01@gmail.com  
+
 LinkedIn:
-https://www.linkedin.com/in/saurabhnathofficial
-
-Email:
-saurabhnathofficial01@gmail.com
-
-Location:
-Bhopal, India
+https://linkedin.com/in/saurabh-nath-4164b3248
 
 ---
 
